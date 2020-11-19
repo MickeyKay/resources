@@ -2,4 +2,7 @@
 Resources I want to save
 
 ## Blogs
-- https://lethain.com/
+- [Irrational Exhuberence][Irrational Exhuberence]
+
+[//]: # (Link references)
+[Irrational Exhuberence]: https://lethain.com/
